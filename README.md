@@ -1,9 +1,7 @@
-# wsu-pp-assessment-1
+# Western Sydney University
+Unit name: programming proficiency. 
 
-WSU - 19789590 - Program Proficiency - Assesment 1
-
-Written in Java
+Written in Java.
 
 ## Contributing
-
 Author: Chris Dao (dqcuong93@gmail.com)

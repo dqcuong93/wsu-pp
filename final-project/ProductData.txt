@@ -1,0 +1,7 @@
+book			50		10.0
+charger			10		40.0
+crayon			500		5.0
+highlighter			50		3.0
+notebook			45		1.5
+paper			56		3.0
+phone			5		90.0
